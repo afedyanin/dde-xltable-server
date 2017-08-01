@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://opensource.org/licenses/GPL-3.0</licenseUrl>
+    <projectUrl>https://github.com/afedyanin/dde-xltable-server</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>dde xltable</tags>
+  </metadata>
+  <files>
+    <file src="bin\$configuration$\*.dll" target="lib\net452" />
+  </files>
+</package>

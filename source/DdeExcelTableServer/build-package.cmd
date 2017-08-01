@@ -1,0 +1,1 @@
+..\Nuget\nuget.exe pack DdeExcelTableServer.csproj -IncludeReferencedProjects -Build -Properties Configuration=Release
